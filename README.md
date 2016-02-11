@@ -1,2 +1,2 @@
 # Dating-Website-Page
-HTML and CSS brushup assessment, Coursera
+HTML and CSS brushup assessment, Coursera Week 1
